@@ -47,3 +47,4 @@ output_file = 'sandstorm_green_screen.mp4'  # Set the output file name
 
 generate_sandstorm(frame_size, duration, output_file)
 git commit -m "Initial commit"
+git push -u origin master
